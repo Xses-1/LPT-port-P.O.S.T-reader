@@ -5,7 +5,5 @@ So, you got that 486 laptop from early '90s and you wanna play those old school 
 
 
 /*
-
 Some people will complain that SN74LS47 will not show nice HEX values. YES, but good luck with finding the one that does! SN74LS47 is cheap, available, and manufacturers allow values >9 (the cheat sheet on the back of PCB is stright from Ti datasheet).
-
 */
